@@ -1,0 +1,3 @@
+router-id 4
+input-ports 3006
+outputs 3007-2-3
